@@ -1,1 +1,5 @@
+# virtual environment
+.venv
+
+# api keys
 secrets.py
